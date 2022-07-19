@@ -1,8 +1,8 @@
 package com.huiqing.ruiji.controller;
 
-import com.itheima.reggie.common.R;
-import com.itheima.reggie.entity.Orders;
-import com.itheima.reggie.service.OrderService;
+import com.huiqing.ruiji.common.R;
+import com.huiqing.ruiji.entry.Orders;
+import com.huiqing.ruiji.service.OrderService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

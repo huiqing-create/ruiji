@@ -6,6 +6,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.huiqing.ruiji.common.BaseContext;
 import com.huiqing.ruiji.common.CustomException;
 import com.huiqing.ruiji.entry.*;
+import com.huiqing.ruiji.mapper.OrderMapper;
 import com.huiqing.ruiji.service.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
