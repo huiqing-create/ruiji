@@ -17,6 +17,11 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_ID
+  redis:
+    host: 192.168.226.128
+    port: 6379
+    password: 123456
+    database: 0
 
 ruiji:
   path: D:\img\
