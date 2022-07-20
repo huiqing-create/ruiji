@@ -8,10 +8,10 @@ import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @ServletComponentScan  //这个是开启组件扫描，能扫描到过滤器
-@SpringBootApplication
 @Slf4j
 @EnableTransactionManagement
 @EnableCaching
+@SpringBootApplication
 public class RuijiApplication {
 
     public static void main(String[] args) {
