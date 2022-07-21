@@ -69,4 +69,5 @@ mybatis-plus:
 
 
 ruiji:
-  path: D:\img\
+#  path: D:\img\
+  path: /usr/local/img/
